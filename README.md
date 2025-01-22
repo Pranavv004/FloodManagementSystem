@@ -45,4 +45,3 @@ FloodMonitor is an advanced flood management application designed to provide rea
 ## Acknowledgments
 - PostgreSQL for the database management system.
 - Java Swing for the graphical user interface.
-- All contributors and users for their support and feedback.
