@@ -15,7 +15,7 @@ FloodMonitor is an advanced flood management application designed to provide rea
 - **Java**: The application is built using Java Swing for the graphical user interface.
 - **PostgreSQL**: The application uses PostgreSQL as the database to store user data, alerts, and notifications.
 - **Networking**: Utilizes sockets for chat functionality and real-time communication.
-- **Version**: postgresql-42.7.3.jar, json-20140107.jar, apache-tomcat-9.0.89-windows-x64
+- **Used Versions**: postgresql-42.7.3.jar, json-20140107.jar, apache-tomcat-9.0.89-windows-x64
 
 ## Installation
 1. **Clone the Repository**:
